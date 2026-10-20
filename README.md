@@ -1,6 +1,6 @@
-# Top Priority Cleaning Services
+# Top Priority Cleaning Services Ltd
 
-Demo website concept for **Top Priority Cleaning Services** — Leeds, UK.
+Demo website concept for **Top Priority Cleaning Services Ltd** — Leeds, UK.
 
 Live preview: https://top-priority-cleaning-mockup.netlify.app
 
